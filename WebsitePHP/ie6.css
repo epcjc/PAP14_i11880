@@ -1,0 +1,24 @@
+#search .search .inputbox {
+	height:25px;
+	width:125px;
+	padding: 7px 0 0 5px;
+}
+#pathway .pathway_l{
+	width:938px;
+}
+#header {
+	height:188px;
+	width: 938px;
+	padding:27px 20px 0 0;
+}
+#news_flash {
+	float:right;
+	width:450px;
+	height:130px;
+	padding:0;
+	margin: 0;
+	overflow:hidden;
+}
+#top{
+	padding:0 0 9px 0;
+}

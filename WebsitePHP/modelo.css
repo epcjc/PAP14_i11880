@@ -1,0 +1,52 @@
+body {
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(imgs/bk.gif);
+	background-repeat: repeat-x;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.imageborder {
+	border: 1px solid #000000;
+}
+.imagebordergray {
+	border: 2px solid #999999;
+}
+.texto13 {
+	font-size: 13px;
+}
+.txt9 {
+	font-size: 9px;
+}
+
+.txtpreco {
+	font-size: 9px;
+	color: #FFFFFF;
+}
+
+.formdadostext
+	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 400px;
+	}
